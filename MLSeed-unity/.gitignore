@@ -1,0 +1,7 @@
+Library/
+Assets/TouchScript/Examples/
+.vs/
+.vsconfig
+Logs/
+Temp/
+obj/

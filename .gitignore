@@ -1,0 +1,6 @@
+ml-agents/*
+!ml-agents/config/
+ml-agents/config/imitation/
+ml-agents/config/poca/
+ml-agents/config/ppo/
+ml-agents/config/sac/
